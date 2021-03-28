@@ -1,1 +1,5 @@
+# What is it that you are investigating/exploring/analysing (provide sufficient background information)?
+Following extensive analysis to determine which project topics to pursue, I choose to analyze on this topic Agriculture because it is significant economic field in many countries, and agricultural activities provide food and income to large segments of the population. In this topic, I would like to discuss about the percent of agricultural land area, land under cereal production and cereal yield across period of time comparing different countries. In addition to it I would like to discuss about the male and female employment in agriculture and also agricultural raw material imports and exports.
+# Why is it important to you and/or to others?
+Analysing this subject is important to me because many people are unaware of how important agriculture is to a country's economy. I'd like to give you a comprehensive explanation of agriculture, including how much agricultural land is present, how much land produces cereals, and how agricultural productivity is measured.
 
