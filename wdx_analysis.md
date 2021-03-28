@@ -33,7 +33,26 @@ Every country's cereal yield fluctuates over time, increasing and decreasing, bu
  ![image](https://user-images.githubusercontent.com/78180757/112765211-11d8de80-8fda-11eb-803d-858b9d8d15bf.png)
 
 Here, I used a bubble chart to compare the percent of agricultural land, land under cereal production, and cereal yield between two countries, India and the United States, in order to examine the issue.
+
 As seen above, the red color denotes the United States, while the blue color denotes India. As a result, in 2010, India had a much higher percentage of agricultural land (60.4%) than the United States (44.5%), and land under cereal cultivation in India is 100 million hectares, compared to the 57.5 million hectares in the United States. However, the cereal yield per hectare in the United States is 6978 kg, which is significantly higher than the 2676 kg yield in India.
+# Employment of male and female in agriculture among different countries in 2013
+![image](https://user-images.githubusercontent.com/78180757/112765319-ac392200-8fda-11eb-9930-928ce645b93e.png)
+
+In order to investigate the issue, I used a Scatter plot to compare the percent of male and female employment in agriculture in three countries: India, Canada, and the United States.
+
+As shown above, the red color represents India, the blue color represents Canada, and the green color represents the United States. As a result, in 2013, India is the only country where female agricultural employment outnumbers male employment by about 16 percent with ratio of 59:43, while in Canada, male agricultural employment outnumbers female employment by 2.4 percent to 1.08 percent with ratio 2:1 and female employment in agriculture is 0.67 percent in the United States, while male employment is 1.87 percent.
+
+From the above information it is clear that India's agricultural employment is much higher than that of Canada and the United States.
+
+# Agricultural raw material imports and exports in 2000
+![image](https://user-images.githubusercontent.com/78180757/112765410-105be600-8fdb-11eb-9f13-f40dea5a2b55.png)
+![image](https://user-images.githubusercontent.com/78180757/112765418-18b42100-8fdb-11eb-9a75-fb19b6e6040f.png)
+
+Here, I used a 	Bar Graph to compare agricultural raw material imports and exports in four different countries: India, China, Canada, and the United States.
+
+The red color represents China, the blue color represents Canada, the green color represents India, and the purple color represents the United States, as seen in the diagram above. As a result, in 2000, Canada's overall agricultural raw material imports accounted for 1.36 percent of merchandise imports, while exports accounted for 6.6 percent of total exports. China’s overall agricultural raw material imports accounted for 4.8 percent of merchandise imports, while exports accounted for 1.3 percent of total exports. India’s overall agricultural raw material imports accounted for 3.2 percent of merchandise imports, while exports accounted for 1.2 percent of total exports. United States overall agricultural raw material imports accounted for 1.3 percent of merchandise imports, while exports accounted for 2.3 percent of total exports.
+
+Overall, the highest exports are recorded in Canada, while the lowest are recorded in China. China has the highest number of imports, while Canada has the lowest.
 
 
 
