@@ -13,4 +13,10 @@ Few of the questions I'm thinking about and would like answer are:
 Datasets can be downloaded from World Development Explorer (WDX). As most of the data is available in datasets, it would be easier for processing the data.
 # What process/step you use to analyze the situation/issue?
 I analyzed the problem using Data Processing, bubble chart, scatter plot, and bar chart and line chart.
+# Agricultural raw materials Imports in 2016
+ ![image](https://user-images.githubusercontent.com/78180757/112765089-83fcf380-8fd9-11eb-8629-c776f497d598.png)
+
+Here, I chose Australia, Canada, China, Germany, and India to compare agricultural raw material imports.
+In 2016, China has the highest imports at 3.5 percent of merchandise imports, while Australia has the lowest at 0.7 percent, with the rest of the world like India at 2 percent, Germany at 1.4 percent, and Canada at 0.9 percent.
+Overall, China imports the most agricultural raw materials relative to the other countries.
 
